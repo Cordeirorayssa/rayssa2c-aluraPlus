@@ -5,5 +5,15 @@
         background-color: var(--cor-de-fundo);
         }
         h1 {
-            background-color: rgb(142, 150, 197);
-            }
+            background-color: rgb(203, 173, 211);
+            
+        
+                border-radius: 15cm;
+                 background-position: 5cm;
+                 text-align: center;
+        }
+        a{ text-align: center;
+
+        }
+        
+            
